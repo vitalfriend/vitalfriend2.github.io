@@ -1,0 +1,15 @@
+li {
+	font-family: 'Neucha';
+	font-size: 20;
+}
+h1 {
+	color:blue;
+	text-shadow: 2px 2px 2px black;
+}
+h1:hover {
+	color:dodgerblue;
+}
+img {
+	display: block;
+	margin: 0 0 0 20px;
+}
